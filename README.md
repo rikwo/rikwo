@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 <h3 align="center">A senior computer science student (second degree) from Simon Fraser University</h3>
 
-- 🔭 I’m currently working on **Mobile Fitness Application**
+- 🔭 I’m currently working on a **Baseketball Stat Tracking Application**
 
 - 🌱 I’m currently learning **Swift for iOS development**
 
