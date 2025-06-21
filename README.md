@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Baseketball Stat Tracking Application**
 
-- 🌱 I’m currently learning **Swift for iOS development**
+- 🌱 I’m currently learning **Swift for iOS development and React.js for web app devlopment**
 
 
 <p align="left">
