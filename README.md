@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
-<h3 align="center">A senior computer science student (second degree) from Simon Fraser University</h3>
+<h3 align="center">A recent computer science grad (second degree) from Simon Fraser University</h3>
 
 - 🔭 I’m currently working on a **Coffee Brew Diary / Brew Adjuster**
 
